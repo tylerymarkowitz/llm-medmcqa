@@ -7,6 +7,6 @@ Test how lightweight LLM models preform with medical multiple choice questions a
 - Filter from [this](https://huggingface.co/datasets/openlifescienceai/medmcqa) dataset to get just the anesthesia questions
 - Use Gemini Flash model to see preformance of base model
 - Implement a simple RAG with anesthesia context
-- We will use [chroma db](https://www.trychroma.com/) for the rag database and [sbert](https://www.sbert.net/) for the sentence transformer
+- We will use LangChain for the RAG 
 - Use the same Gemini Flash model to see preformance with the RAG running
 - Compare and analyse results
