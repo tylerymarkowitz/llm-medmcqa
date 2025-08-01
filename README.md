@@ -10,3 +10,12 @@ Test how lightweight LLM models preform with medical multiple choice questions a
 - We will use LangChain for the RAG 
 - Use the same Gemini Flash model to see preformance with the RAG running
 - Compare and analyse results
+
+
+
+
+### Artifacts for the RAG
+- https://iowaprotocols.medicine.uiowa.edu/protocols/maximum-recommended-doses-and-duration-local-anesthetics
+- https://www.asahq.org/standards-and-practice-parameters/basic-standards-for-preanesthesia-care
+- https://www.asahq.org/standards-and-practice-parameters/standards-for-basic-anesthetic-monitoring
+- https://www.asahq.org/standards-and-practice-parameters/standards-for-postanesthesia-care
